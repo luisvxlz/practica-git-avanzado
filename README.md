@@ -1,2 +1,2 @@
-'## Login\nFormulario de inicio de sesión agregado.
+corrigiendo algo
 # practica-git-avanzado
