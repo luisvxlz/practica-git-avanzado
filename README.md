@@ -1,2 +1,2 @@
-oh que lokazoooo
+corrigiendo algo
 # practica-git-avanzado
